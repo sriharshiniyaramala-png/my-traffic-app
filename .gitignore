@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# SQLite databases
+*.db
+*.db-wal
+*.db-shm
+data/*.db
+data/*.db-wal
+data/*.db-shm
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Ultralytics & model weights
+yolov8n.pt
+runs/
+.cache/

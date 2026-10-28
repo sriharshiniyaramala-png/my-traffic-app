@@ -1,0 +1,9 @@
+# Smart Emergency Traffic Priority System Dependencies
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+streamlit>=1.30.0
+plotly>=5.18.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+torch>=2.0.0
+torchvision>=0.15.0
